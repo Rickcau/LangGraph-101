@@ -1,0 +1,12 @@
+{
+    
+    "explorer.sortOrder": "filesFirst",
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": false,
+    "python.defaultInterpreterPath": "vendor-contracts-env/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "vendor-contracts-chat-provider"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.terminal.activateEnvironment": true
+}

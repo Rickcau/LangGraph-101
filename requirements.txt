@@ -1,0 +1,10 @@
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langchain-community
+langchain-core
+langchain-openai
+notebook
+langgraph-cli
+azure-core
+azure-storage-blob

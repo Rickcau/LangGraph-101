@@ -1,0 +1,42 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python FastAPI Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": [
+                "vendor-contracts-chat-provider.app.main:app",
+                "--reload",
+                "--port",
+                "8000"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "python": "${workspaceFolder}\\vendor-contracts-env\\Scripts\\python",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}\\vendor-contracts-chat-provider"
+            },
+            "windows": {
+                "python": "${workspaceFolder}\\vendor-contracts-env\\Scripts\\python"
+            },
+            "preLaunchTask": "Install Dependencies"
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "python": "${workspaceFolder}/vendor-contracts-env/bin/python",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "windows": {
+                "python": "${workspaceFolder}\\vendor-contracts-env\\Scripts\\python"
+            }
+        }
+    ]
+}
