@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This repository is designed to help you learn the fundimentals of LangGraph.  You will find [Jupyter](https://jupyter.org/) notebooks and Python Programs that demostrate various concepts.  I would recommend that you work through all the Notebooks, cell by cell as it's the easiest to learn the concepts in an incremental  way.  Once you finish all the modules in the Notebooks, then you can dive into the various Programs.
+This repository is designed to help you learn the fundimentals of LangGraph, it is a refacoring of the materials found in the [langchain-academy repo](https://github.com/langchain-ai/langchain-academy), but targeting Azure OpenAI with my prospective being added.  
+
+You will find [Jupyter](https://jupyter.org/) notebooks and Python Programs that demostrate various concepts.  I would recommend that you work through all the Notebooks, cell by cell as it's the easiest to learn the concepts in an incremental  way.  Once you finish all the modules in the Notebooks, then you can dive into the various Programs.
 
 ## Observations
 

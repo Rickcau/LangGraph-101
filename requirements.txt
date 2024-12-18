@@ -8,3 +8,5 @@ notebook
 langgraph-cli
 azure-core
 azure-storage-blob
+wikipedia
+trustcall
