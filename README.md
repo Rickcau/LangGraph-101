@@ -8,7 +8,7 @@ You will find [Jupyter](https://jupyter.org/) notebooks and Python Programs that
 
 ## Observations
 
-Based on my experience with LangGraph, so far, I can tell you it is **very** powerful and it does have a lot of capabilities.  As with any framework, there are pros and cons. Some of the lighter weight frameworks like Semantic Kernal and CrewAI are easier to use.  Although many of these frameworks can be very power, many of the patterns can be implemented with the use of these frameworks. Often, I feel like many of these frameworks are over engineered and I can achieve a much more performant solution without their use, but that is just my opinion.
+Based on my experience with LangGraph, so far, I can tell you it is **very** powerful and it does have a lot of capabilities.  As with any framework, there are pros and cons. Some of the lighter weight frameworks like Semantic Kernal and CrewAI are easier to use.  Although many of these frameworks can be very powerful, many of the patterns can be implemented without the use of these frameworks. Often, I feel like many of these frameworks are over engineered and I can achieve a much more performant solution without their use, but that is just my opinion, there are tradeoffs no matter which approach you do with.
 
 ### Pros:
 
